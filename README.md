@@ -11,5 +11,5 @@ Created a professional portfolio that includes About Me, Project, and Contact se
 
 ## Link to deployed page
 
-You can also refer to this [GitHub Pages](https://sowmyanagayya.github.io/weather-dashboard/).
+You can also refer to this [GitHub Pages](https://sowmyanagayya.github.io/Advanced-portfolio/).
 
