@@ -6,7 +6,7 @@ Created a professional portfolio that includes About Me, Project, and Contact se
 
 ## Screenshot of homepage
 
-![Here is a screen shot of the final page/homepage.](./assets/image/weatherdashboard.png)
+![Here is a screen shot of the final page/homepage.](./assets/images/portfoliomainpage.png)
 
 
 ## Link to deployed page
